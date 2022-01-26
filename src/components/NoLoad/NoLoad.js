@@ -25,7 +25,7 @@ const NoLoad = () => {
 
                 <NoLoadWindowMessage>
                     <NoLoadWindowP>
-                        This DEX is deployed to the Kovan Test Rinkeby only. . . <br /> Please check your connection with Meta Mask.
+                        This DEX is deployed to the Rinkeby Test Network only. . . <br /> Please check your connection with Meta Mask.
                     </NoLoadWindowP>
                     <NoLoadWindowA href="https://metamask.io/faqs" target="_blank">
                         Visit Meta Mask For Further Support

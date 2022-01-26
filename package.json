@@ -6,7 +6,8 @@
   "private": true,
   "homepage": ".",
   "engines": {
-    "node": "12.x"
+    "node": "12.x",
+    "npm": "6.x"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
