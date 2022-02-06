@@ -30,6 +30,9 @@ const NoLoad = () => {
                     <NoLoadWindowA href="https://metamask.io/faqs" target="_blank">
                         Visit Meta Mask For Further Support
                     </NoLoadWindowA>
+                    <NoLoadWindowA href="https://faucet.rinkeby.io/" target="_blank">
+                        Get Rinkeby Test Network Ethereum 
+                    </NoLoadWindowA>
                 </NoLoadWindowMessage>
 
             </NoLoadWindowContainer>
